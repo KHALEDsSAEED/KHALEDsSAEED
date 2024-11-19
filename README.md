@@ -1,11 +1,6 @@
-## Hi there 👋
+# Hi there, I'm Khaled Saeed 👋
 
-<!--
-**KHALEDsSAEED/KHALEDsSAEED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+## About Me
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## My GitHub Stats
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHALEDsSAEED&show_icons=true&theme=radical)
+
+## Languages and Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHALEDsSAEED&layout=compact&theme=radical)
